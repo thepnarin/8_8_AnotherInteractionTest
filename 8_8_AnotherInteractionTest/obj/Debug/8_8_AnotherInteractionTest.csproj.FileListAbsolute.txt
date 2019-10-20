@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\bin\Debug\8_8_AnotherInteractionTest.exe.config
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\bin\Debug\8_8_AnotherInteractionTest.exe
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\bin\Debug\8_8_AnotherInteractionTest.pdb
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\obj\Debug\8_8_AnotherInteractionTest.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\obj\Debug\8_8_AnotherInteractionTest.exe
+C:\Users\TNykuka\source\repos\8_8_AnotherInteractionTest\8_8_AnotherInteractionTest\obj\Debug\8_8_AnotherInteractionTest.pdb
